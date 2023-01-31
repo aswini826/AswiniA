@@ -1,0 +1,14 @@
+body {
+    background-color: #222;
+}
+li {
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 20px solid teal;
+    
+    list-style: none;
+}

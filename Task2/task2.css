@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "family 1";
+    src:url(./font-family/family\ 1.ttf);
+}
+@font-face {
+    font-family: "family 2";
+    src:url(./font-family/family\ 2.ttf);
+}
+@font-face {
+    font-family: "family 3";
+    src:url(./font-family/family\ 3.ttf);
+}
+@font-face {
+    font-family: "family 4";
+    src:url(./font-family/family\ 5.ttf);
+}
+@font-face {
+    font-family: "family 5";
+    src:url(./font-family/family\ 5.ttf)
+}
+@font-face {
+    font-family: "family 6";
+    src:url(./font-family/family\ 6.ttf);
+}
+h1 {
+    font-family: "family 1";
+    text-align: center;
+    color: blue;
+}
+h2 {
+    font-family: "family 2";
+    text-align: center;
+    color: red;
+}
+h3 {
+    font-family: "family 3";
+    text-align: center;
+    color: rosybrown;
+}
+h4 {
+    font-family: "family 4";
+    text-align: center;
+    color:rgb(148, 70, 70)
+}
+h5 {
+    font-family: "family 5";
+    text-align: center;
+    color: purple;
+}
+h6 {
+    font-family: "family 6";
+    text-align: center;
+    color: rgb(45, 6, 100);
+}
