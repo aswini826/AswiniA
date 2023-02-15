@@ -1,54 +1,54 @@
 @font-face {
-    font-family: "family 1";
-    src:url(./font-family/family\ 1.ttf);
+    font-family: "family1";
+    src:url(./font-family/family1.ttf);
 }
 @font-face {
-    font-family: "family 2";
-    src:url(./font-family/family\ 2.ttf);
+    font-family: "family2";
+    src:url(./font-family/family2.ttf);
 }
 @font-face {
-    font-family: "family 3";
-    src:url(./font-family/family\ 3.ttf);
+    font-family: "family3";
+    src:url(./font-family/family3.ttf);
 }
 @font-face {
-    font-family: "family 4";
-    src:url(./font-family/family\ 5.ttf);
+    font-family: "family4";
+    src:url(./font-family/family4.ttf);
 }
 @font-face {
-    font-family: "family 5";
-    src:url(./font-family/family\ 5.ttf)
+    font-family: "family5";
+    src:url(./font-family/family5.ttf);
 }
 @font-face {
-    font-family: "family 6";
-    src:url(./font-family/family\ 6.ttf);
+    font-family: "family6";
+    src:url(./font-family/family6.ttf);
 }
 h1 {
-    font-family: "family 1";
+    font-family: "family1";
     text-align: center;
     color: blue;
 }
 h2 {
-    font-family: "family 2";
+    font-family: "family2";
     text-align: center;
     color: red;
 }
 h3 {
-    font-family: "family 3";
+    font-family: "family3";
     text-align: center;
     color: rosybrown;
 }
 h4 {
-    font-family: "family 4";
+    font-family: "family4";
     text-align: center;
     color:rgb(148, 70, 70)
 }
 h5 {
-    font-family: "family 5";
+    font-family: "family5";
     text-align: center;
     color: purple;
 }
 h6 {
-    font-family: "family 6";
+    font-family: "family6";
     text-align: center;
     color: rgb(45, 6, 100);
 }
